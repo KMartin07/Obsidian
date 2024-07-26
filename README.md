@@ -5,7 +5,7 @@
 ## Use this repo as your Obsidian 'vault':
 
 ### 1. Clone the repo:
-    git clone [https://github.com/KMartin07/Obsidian.git](https://github.com/KMartin07/Obsidian.git)
+    git clone [https://github.com/KMartin07/Obsidian.git]
 
 ### 2. Enter the repo and create a branch:
     cd Obsidian 
