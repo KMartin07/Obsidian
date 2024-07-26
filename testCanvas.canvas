@@ -2,10 +2,13 @@
 	"nodes":[
 		{"id":"9c9fcf1a20531064","type":"text","text":"Test Card","x":620,"y":140,"width":170,"height":85},
 		{"id":"39fca6a70c63872e","type":"text","text":"Second card biatchh","x":300,"y":307,"width":250,"height":60},
-		{"id":"cbe1ed773bb47136","type":"link","url":"https://docs.zillona.org/dojo","x":-560,"y":-400,"width":720,"height":540}
+		{"id":"cbe1ed773bb47136","type":"link","url":"https://docs.zillona.org/dojo","x":-560,"y":-400,"width":720,"height":540},
+		{"id":"1f7d475434dd9dc4","x":607,"y":-178,"width":250,"height":60,"type":"text","text":"kristans branch!"}
 	],
 	"edges":[
 		{"id":"ea1b897c4df0304e","fromNode":"9c9fcf1a20531064","fromSide":"bottom","toNode":"39fca6a70c63872e","toSide":"top"},
-		{"id":"bfff58e9652c8760","fromNode":"cbe1ed773bb47136","fromSide":"right","toNode":"9c9fcf1a20531064","toSide":"top"}
+		{"id":"bfff58e9652c8760","fromNode":"cbe1ed773bb47136","fromSide":"right","toNode":"9c9fcf1a20531064","toSide":"top"},
+		{"id":"c4c6e73dfaa692be","fromNode":"1f7d475434dd9dc4","fromSide":"bottom","toNode":"9c9fcf1a20531064","toSide":"top"},
+		{"id":"16ca6cdf966c1ae5","fromNode":"1f7d475434dd9dc4","fromSide":"left","toNode":"cbe1ed773bb47136","toSide":"right"}
 	]
 }
