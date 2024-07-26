@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9c9fcf1a20531064","x":620,"y":140,"width":170,"height":85,"type":"text","text":"Test Card"},
+		{"id":"39fca6a70c63872e","x":300,"y":307,"width":250,"height":60,"type":"text","text":"Second card"},
+		{"id":"cbe1ed773bb47136","x":-560,"y":-400,"width":720,"height":540,"type":"link","url":"https://docs.zillona.org/dojo"}
+	],
+	"edges":[
+		{"id":"ea1b897c4df0304e","fromNode":"9c9fcf1a20531064","fromSide":"bottom","toNode":"39fca6a70c63872e","toSide":"top"},
+		{"id":"bfff58e9652c8760","fromNode":"cbe1ed773bb47136","fromSide":"right","toNode":"9c9fcf1a20531064","toSide":"top"}
+	]
+}
