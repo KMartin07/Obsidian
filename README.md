@@ -11,7 +11,7 @@
     cd Obsidian 
     git checkout -b <yourname>
 
-### 4. Open Obsidian and select 'Open folder as vault', choose the Obsidian repo that you've just cloned.
+### 4. Open Obsidian app and select 'Open folder as vault', choose the Obsidian repo that you've just cloned.
    Make shit in Obsidian!
 
 ### 6. When you're done making edits go back to your terminal and publish your branch
