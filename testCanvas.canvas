@@ -1,14 +1,21 @@
 {
 	"nodes":[
+		{"id":"88396caff6de9fae","type":"file","file":"untitledNote.md","x":1126,"y":91,"width":400,"height":400},
 		{"id":"9c9fcf1a20531064","type":"text","text":"Test Card","x":620,"y":140,"width":170,"height":85},
 		{"id":"39fca6a70c63872e","type":"text","text":"Second card biatchh","x":300,"y":307,"width":250,"height":60},
 		{"id":"cbe1ed773bb47136","type":"link","url":"https://docs.zillona.org/dojo","x":-560,"y":-400,"width":720,"height":540},
-		{"id":"1f7d475434dd9dc4","x":607,"y":-178,"width":250,"height":60,"type":"text","text":"kristans branch!"}
+		{"id":"1f7d475434dd9dc4","type":"text","text":"kristans branch!","x":607,"y":-178,"width":250,"height":60},
+		{"id":"87caffdb957b3262","type":"text","text":"3rd card mothasucka","x":454,"y":-305,"width":250,"height":60},
+		{"id":"13814a6a5cf2b709","type":"file","file":"qr/Gemini_Generated_Image_glehxfglehxfgleh.jpeg","x":1595,"y":-3525,"width":2005,"height":2005},
+		{"id":"35257664b2ca69d4","type":"file","file":"qr/Gemini_Generated_Image_glehxaglehxagleh.jpeg","x":-2864,"y":-2824,"width":2424,"height":2424},
+		{"id":"6dd4cc99eff9a260","x":-1852,"y":-1440,"width":400,"height":400,"type":"file","file":"qr/qrcode.jpeg"},
+		{"id":"9bf70f304badd26d","type":"file","file":"qr/qrcode (1).jpeg","x":2080,"y":-2640,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"ea1b897c4df0304e","fromNode":"9c9fcf1a20531064","fromSide":"bottom","toNode":"39fca6a70c63872e","toSide":"top"},
 		{"id":"bfff58e9652c8760","fromNode":"cbe1ed773bb47136","fromSide":"right","toNode":"9c9fcf1a20531064","toSide":"top"},
 		{"id":"c4c6e73dfaa692be","fromNode":"1f7d475434dd9dc4","fromSide":"bottom","toNode":"9c9fcf1a20531064","toSide":"top"},
-		{"id":"16ca6cdf966c1ae5","fromNode":"1f7d475434dd9dc4","fromSide":"left","toNode":"cbe1ed773bb47136","toSide":"right"}
+		{"id":"16ca6cdf966c1ae5","fromNode":"1f7d475434dd9dc4","fromSide":"left","toNode":"cbe1ed773bb47136","toSide":"right"},
+		{"id":"e2c39f06c3d5c158","fromNode":"87caffdb957b3262","fromSide":"bottom","toNode":"1f7d475434dd9dc4","toSide":"top"}
 	]
 }
